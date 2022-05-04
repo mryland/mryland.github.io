@@ -1,5 +1,14 @@
-Here you can say lots of fun things about your site.
+# Current projects, and interests
 
-Maybe say a some things about yourself.
+## Hulen
+- networking
 
-Or maybe what you plan to blog about.
+## Blog
+
+- trying out this thing
+
+## Electronics
+
+- old test equipment
+- vintage computers
+- vintage loud things
